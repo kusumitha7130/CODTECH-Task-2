@@ -1,14 +1,5 @@
 # Recipe Sharing Full Stack App (MERN Stack)
 
-## Table of Contents
-
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
 
 - ## Screenshots
  
@@ -26,12 +17,7 @@
 5. **Favorite Recipes**: Save your favorite recipes for easy access.
 6. **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
-## Prerequisites
 
-- [Node.js](https://nodejs.org/) installed (v14 or higher).
-- [MongoDB](https://www.mongodb.com/) installed and running locally or on a remote server.
-- [Git](https://git-scm.com/) for version control.
-- A text editor or integrated development environment (IDE) of your choice (e.g., Visual Studio Code).
 
 ## Getting Started
 
