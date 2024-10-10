@@ -1,4 +1,4 @@
-
+#VEERAVELLY KUSUMITHA
 **NAME**:VEERAVELLY KUSUMITHA
 **COMPANY**:CODTECH IT SOLUTIONS PVT. LTD
 **ID**:CT06DS1774
@@ -12,7 +12,7 @@ PROJECT:# Recipe Sharing Full Stack App (MERN Stack)
 
 
 
-## Features
+## KEY Features
 
 1. **User Authentication**: Secure user authentication and registration system.
 2. **Recipe Management**: Create, edit, and delete your recipes.
