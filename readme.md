@@ -6,10 +6,10 @@
 **DURATION**: August 25th to October 10th, 2024
 
 
-##OVERVIEW OF THE PROJECT
+## OVERVIEW OF THE PROJECT
 
 
-PROJECT: Recipe Sharing Full Stack App (MERN Stack)
+## PROJECT: Recipe Sharing Full Stack App (MERN Stack)
 
 
 ## OBJECTIVES
