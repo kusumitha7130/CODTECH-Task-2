@@ -9,11 +9,13 @@
 **OVERVIEW OF THE PROJECT
 
 
-PROJECT:# Recipe Sharing Full Stack App (MERN Stack)
+PROJECT: Recipe Sharing Full Stack App (MERN Stack)
 
 
-##OBJECTIVES
-THIS PROJECT IS A RECIPE SHARING PLATFORM WHERE USERS CAN SHARE,VIEW AND SAVE RECIPES.USERS CAN REGISTER AND LOGIN AS WELL AS CREATE,DELETEREAD AND UPDATE THE RECIPES
+## OBJECTIVES
+This project is a recipe-sharing platform where users can share, view, and save recipes.  
+Users can register and log in, as well as create, delete, read, and update recipes.
+
 
 ## KEY Features
 
