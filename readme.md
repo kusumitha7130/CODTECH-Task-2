@@ -1,12 +1,13 @@
+NAME:VEERAVELLY KUSUMITHA
+COMPANY:CODTECH IT SOLUTIONS PVT. LTD
+ID:CT06DS1774
+DOMAIN:FULL STACK DEVELOPMENT
+DURATION:August 25th to October 10th 2024
+
+
 # Recipe Sharing Full Stack App (MERN Stack)
 
 
-- ## Screenshots
- 
- ![Screenshot1](./public/static/images/website1.png);
- ![Screenshot2](./public/static/images/website2.png);
- ![Screenshot3](./public/static/images/website3.png);
- ![Screenshot4](./public/static/images/website4.png);
 
 ## Features
 
@@ -85,6 +86,12 @@ The project follows a standard MERN stack folder structure:
 - JSON Web Tokens (JWT) for authentication
 - bcrypt for secured password hashing
 
+- ## Screenshots
+ 
+ ![Screenshot1](./public/static/images/website1.png);
+ ![Screenshot2](./public/static/images/website2.png);
+ ![Screenshot3](./public/static/images/website3.png);
+ ![Screenshot4](./public/static/images/website4.png);
 
 ## Live Demo
 
